@@ -1,0 +1,5 @@
+unit Click_BUCK9_config;
+
+uses Click_BUCK9_types;
+
+end.

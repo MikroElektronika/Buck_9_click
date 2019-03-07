@@ -1,0 +1,4 @@
+module Click_BUCK9_config
+
+include Click_BUCK9_types
+end.
